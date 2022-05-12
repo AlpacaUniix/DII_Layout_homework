@@ -1,0 +1,12 @@
+table,
+th,
+td {
+    border: 1px solid red;
+    border-collapse: collapse;
+    text-align: right;
+    padding: 5px;
+}
+
+div {
+    margin-bottom: 65px;
+}
