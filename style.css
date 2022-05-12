@@ -1,12 +1,22 @@
 table,
 th,
 td {
-    border: 1px solid red;
+    border: 2px solid gray;
     border-collapse: collapse;
-    text-align: right;
-    padding: 5px;
 }
 
-div {
-    margin-bottom: 65px;
+img {
+    width: 20%;
+}
+
+.img-normal {
+    border-radius: 10px;
+}
+
+.img-blur {
+    filter: blur(2px);
+}
+
+.img-logo {
+    float: right;
 }
